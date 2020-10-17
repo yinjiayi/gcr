@@ -1,7 +1,7 @@
-# GCR 同步仓库 [![Build Status](https://travis-ci.org/yinjiayi/imgsync.svg?branch=master)](https://travis-ci.org/yinjiayi/imgsync)
+# GCR 同步仓库 [![Build Status](https://travis-ci.com/yinjiayi/imgsync.svg?branch=master)](https://travis-ci.com/yinjiayi/imgsync)
 
 
-> 这是一个 Google contaiber registry 镜像同步仓库，目前由 [Travis CI](https://travis-ci.org/yinjiayi/imgsync) 进行每日自动构建
+> 这是一个 Google contaiber registry 镜像同步仓库，目前由 [Travis CI](https://travis-ci.com/yinjiayi/imgsync) 进行每日自动构建
 
 ### Manifests
 
