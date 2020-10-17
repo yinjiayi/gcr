@@ -1,11 +1,7 @@
-# GCR 同步仓库 [![Build Status](https://travis-ci.org/mritd/imgsync.svg?branch=master)](https://travis-ci.org/mritd/imgsync)
+# GCR 同步仓库 [![Build Status](https://travis-ci.org/yinjiayi/imgsync.svg?branch=master)](https://travis-ci.org/yinjiayi/imgsync)
 
 
-> 这是一个 Google contaiber registry 镜像同步仓库，目前由 [Travis CI](https://travis-ci.org/mritd/imgsync) 进行每日自动构建
-
-### 同步工具
-
-同步工具已经开源在 [mritd/gcrsync](https://github.com/mritd/imgsync)，如想要自行同步可直接使用该工具
+> 这是一个 Google contaiber registry 镜像同步仓库，目前由 [Travis CI](https://travis-ci.org/yinjiayi/imgsync) 进行每日自动构建
 
 ### Manifests
 
